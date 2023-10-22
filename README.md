@@ -1,2 +1,2 @@
 # Game_Development
-My game developed during project using unity and blender
+My game developed during Intership using unity and blender
